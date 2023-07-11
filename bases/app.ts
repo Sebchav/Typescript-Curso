@@ -20,6 +20,7 @@
       flash = 5,
       superman = 100
     }
+    
     const fuerzaFlash:fuerza = fuerza.flash;
     const fuerzaSuperman:fuerza = fuerza.superman;
     const fuerzaBatman:fuerza = fuerza.batman;

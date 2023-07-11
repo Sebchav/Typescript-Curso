@@ -4,5 +4,4 @@
         throw new Error(message)
     }
 
-    error("Auxilio!");
 })();
